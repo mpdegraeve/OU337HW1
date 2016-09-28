@@ -1,0 +1,2 @@
+the program does a for loop, counting down from 99 bottles of beer on the wall to 1. displays the text 99 bottles of beer on the wall, 99 bottles of beer 
+take one down pass it around 99 bottles of beer on the wall all the way to 1 bottle. once it gets to one bottle it outputs take one down, pass it around, no more bottles of beer on the wall.
